@@ -2,7 +2,7 @@
 /**
  * _abs - compute n to +
  * @n: number
- * Return : 0
+ * Return: 0
  */
 int _abs(int n)
 {
