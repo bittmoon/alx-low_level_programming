@@ -10,7 +10,7 @@ void print_alphabet_x10(void)
 	char a = 'a';
 	int b = 0 ;
 
-	for (b, b <= 9 , b++)
+	for (b , b <= 9 , b++)
 	{
 		while (a <= 'z')
 		{
